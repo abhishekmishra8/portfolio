@@ -8,8 +8,8 @@
 <img src="images/Tesla Coverpage.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[From Tweets to Trends: An In-depth Analysis of Twitter Activity]([/pdf/sample_presentation.pdf](https://www.linkedin.com/pulse/from-tweets-trends-in-depth-excel-analysis-twitter-activity-mishra-p8oef%3FtrackingId=MZye5ccwQGyvyJvwnBciHw%253D%253D/?trackingId=MZye5ccwQGyvyJvwnBciHw%3D%3D))
+<img src="images/Twitter Cover Page.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
