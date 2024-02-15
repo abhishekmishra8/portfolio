@@ -5,7 +5,9 @@
 ### Excel Projects
 
 #### [Decoding Tesla's Decade: An In-Depth Financial Analysis (2009-2023)](https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D)
-<img src="images/Tesla Coverpage.png"/>(https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D)
+<a href="https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D">
+    <img src="images/Tesla Coverpage.png" alt="Project Cover Image"/>
+</a>
 <br>
 Project Description here
 
