@@ -15,7 +15,7 @@ Project Description here.
 
 ---
 [Unlocking Guest Retention Secrets Through Hotel Booking Cancellation Analysis](https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D)
-<img src="images/Hotel Booking Cancellation Cover page.png>
+<img src="images/Hotel Booking Cancellation Cover page.png">
 Project Description Here
 ---
 
