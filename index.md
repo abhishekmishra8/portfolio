@@ -9,21 +9,21 @@
 Project Description here
 
 ---
-[From Tweets to Trends: An In-depth Analysis of Twitter Activity](https://www.linkedin.com/pulse/from-tweets-trends-in-depth-excel-analysis-twitter-activity-mishra-p8oef%3FtrackingId=TSVnOn1mB9imXWg7eGGO2Q%253D%253D/?trackingId=TSVnOn1mB9imXWg7eGGO2Q%3D%3D) <br><br>
+[From Tweets to Trends: An In-depth Analysis of Twitter Activity](https://www.linkedin.com/pulse/from-tweets-trends-in-depth-excel-analysis-twitter-activity-mishra-p8oef%3FtrackingId=TSVnOn1mB9imXWg7eGGO2Q%253D%253D/?trackingId=TSVnOn1mB9imXWg7eGGO2Q%3D%3D) <br>
 <img src="images/Twitter Cover Page.png"/>
 Project Description here.
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Unlocking Guest Retention Secrets Through Hotel Booking Cancellation Analysis](https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D)
+<img src="images/Hotel Booking Cancellation Cover page.png>
+Project Description Here
 ---
 
-### Category Name 2
+### Projects Listed
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Tesla Finanacials Analysis using Excel]([http://example.com/](https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D))
+- [Twitter Activity Analysis with Excel]([http://example.com/](https://www.linkedin.com/pulse/from-tweets-trends-in-depth-excel-analysis-twitter-activity-mishra-p8oef%3FtrackingId=TSVnOn1mB9imXWg7eGGO2Q%253D%253D/?trackingId=TSVnOn1mB9imXWg7eGGO2Q%3D%3D))
+- [Hotel Cancellation Analysis using Excel](https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
