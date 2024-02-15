@@ -22,7 +22,7 @@ This project analyzes Twitter activity using a dataset of 100,000 tweets. It unc
 <a href="https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D">
 <img src="images/Hotel Booking Cancellation Cover page.png">
 </a>
-Project Description Here
+Here I focuses on reducing hotel booking cancellations by analyzing guest booking data using Excel. It delves into various factors like guest demographics, room preferences, hotel types, and seasonal trends to uncover hidden patterns and cancellation triggers.
 
 ---
 
