@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D">
     <img src="images/Tesla Coverpage.png" alt="Project Cover Image"/>
 </a>
-<br>
 Project Description here
 
 ---
@@ -24,6 +23,16 @@ Project Description here.
 <img src="images/Hotel Booking Cancellation Cover page.png">
 </a>
 Project Description Here
+
+---
+
+### Python Projects
+
+#### [eCommerce Insights from Flipkart's Sales Data](https://www.linkedin.com/pulse/python-practice-project-ecommerce-insights-from-flipkarts-mishra%3FtrackingId=gbvYDHDUSFlhcIbbqdan5g%253D%253D/?trackingId=gbvYDHDUSFlhcIbbqdan5g%3D%3D)
+<a href="https://www.linkedin.com/pulse/python-practice-project-ecommerce-insights-from-flipkarts-mishra%3FtrackingId=gbvYDHDUSFlhcIbbqdan5g%253D%253D/?trackingId=gbvYDHDUSFlhcIbbqdan5g%3D%3D">
+    <img src="images/Flipkart Ecommerce Insight.png" alt="Project Cover Image"/>
+</a>
+Project Description here
 
 ---
 
