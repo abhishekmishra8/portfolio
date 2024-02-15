@@ -1,11 +1,11 @@
-## Portfolio
+## My Data Analytics Portfolio
 
 ---
 
-### Category Name 1 
+### Excel Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Decoding Tesla's Decade: An In-Depth Financial Analysis (2009-2023)]([/sample_page](https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=LK7O8xlTQiGkLxN3TkD%252FpA%253D%253D/?trackingId=LK7O8xlTQiGkLxN3TkD%2FpA%3D%3D))
+<img src="images/Tesla Coverpage.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
