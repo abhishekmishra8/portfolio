@@ -36,6 +36,30 @@ Project Description here
 
 ---
 
+#### [Netflix Stock Data Analysis - Investing Insights, Patterns, Trends, Forecasting](https://www.linkedin.com/pulse/python-practice-project-netflix-stock-data-analysis-investing-mishra%3FtrackingId=F3a3AL8GvtKprE7cKgccKA%253D%253D/?trackingId=F3a3AL8GvtKprE7cKgccKA%3D%3D)
+<a href="https://www.linkedin.com/pulse/python-practice-project-netflix-stock-data-analysis-investing-mishra%3FtrackingId=F3a3AL8GvtKprE7cKgccKA%253D%253D/?trackingId=F3a3AL8GvtKprE7cKgccKA%3D%3D">
+    <img src="images/Netflix Project Cover.png" alt="Project Cover Image"/>
+</a>
+Project Description here
+
+---
+
+#### [Cricket Sports Data Analysis](https://www.linkedin.com/pulse/python-practice-project-ipl-2022-cricket-sports-data-analysis-mishra%3FtrackingId=csM%252B3ZQqsFhCLWeQklqRJw%253D%253D/?trackingId=csM%2B3ZQqsFhCLWeQklqRJw%3D%3D)
+<a href="https://www.linkedin.com/pulse/python-practice-project-ipl-2022-cricket-sports-data-analysis-mishra%3FtrackingId=csM%252B3ZQqsFhCLWeQklqRJw%253D%253D/?trackingId=csM%2B3ZQqsFhCLWeQklqRJw%3D%3D">
+    <img src="images/Cover IPL Data Analysis Project.png" alt="Project Cover Image"/>
+</a>
+Project Description here
+
+---
+
+#### [iPhone Sales Data Analysis](https://www.linkedin.com/pulse/python-practice-project-iphone-sales-data-analysis-unlocking-mishra%3FtrackingId=o%252FIwq0G62FPOubMU2958Og%253D%253D/?trackingId=o%2FIwq0G62FPOubMU2958Og%3D%3D)
+<a href="https://www.linkedin.com/pulse/python-practice-project-iphone-sales-data-analysis-unlocking-mishra%3FtrackingId=o%252FIwq0G62FPOubMU2958Og%253D%253D/?trackingId=o%2FIwq0G62FPOubMU2958Og%3D%3D">
+    <img src="images/Flipkart Ecommerce Insight.png" alt="Project Cover Image"/>
+</a>
+Project Description here
+
+---
+
 ### Projects Listed
 
 - [Tesla Finanacials Analysis using Excel](https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D)
