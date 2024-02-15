@@ -15,7 +15,7 @@ I analyzed Tesla's financial performance from 2009 to 2023 using Excel, aiming t
 <a href="https://www.linkedin.com/pulse/from-tweets-trends-in-depth-excel-analysis-twitter-activity-mishra-p8oef%3FtrackingId=TSVnOn1mB9imXWg7eGGO2Q%253D%253D/?trackingId=TSVnOn1mB9imXWg7eGGO2Q%3D%3D">
 <img src="images/Twitter Cover Page.png"/>
 </a>
-This portfolio project analyzes Twitter activity using a dataset of 100,000 tweets. It uncovers engagement patterns, Klout score impacts, sentiment trends, temporal fluctuations, geographic influences, gender dynamics, and language variations. Through meticulous data cleaning and insightful analysis, it offers actionable insights for optimizing Twitter presence and content strategy.
+This project analyzes Twitter activity using a dataset of 100,000 tweets. It uncovers engagement patterns, Klout score impacts, sentiment trends, temporal fluctuations, geographic influences, gender dynamics, and language variations. Through meticulous data cleaning and insightful analysis, it offers actionable insights for optimizing Twitter presence and content strategy.
 
 ---
 #### [Unlocking Guest Retention Secrets Through Hotel Booking Cancellation Analysis](https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D)
