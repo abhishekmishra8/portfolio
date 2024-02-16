@@ -48,7 +48,7 @@ Analyzing Netflix stock data for investment insights using Jupyter Notebook and 
 <a href="https://www.linkedin.com/pulse/python-practice-project-ipl-2022-cricket-sports-data-analysis-mishra%3FtrackingId=csM%252B3ZQqsFhCLWeQklqRJw%253D%253D/?trackingId=csM%2B3ZQqsFhCLWeQklqRJw%3D%3D">
     <img src="images/Cover IPL Data Analysis Project.png" alt="Project Cover Image"/>
 </a>
-Project Description here
+Leveraging Python's Pandas and Plotly Express libraries, I analyzed data from the IPL cricket, uncovering insights into team performance, player statistics, match outcomes, toss analysis, and venue-specific trends.
 
 ---
 
