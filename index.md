@@ -40,7 +40,7 @@ Explored 19k+ purchases to uncover sales drivers and online shopper behavior. An
 <a href="https://www.linkedin.com/pulse/python-practice-project-netflix-stock-data-analysis-investing-mishra%3FtrackingId=F3a3AL8GvtKprE7cKgccKA%253D%253D/?trackingId=F3a3AL8GvtKprE7cKgccKA%3D%3D">
     <img src="images/Netflix Project Cover.png" alt="Project Cover Image"/>
 </a>
-Project Description here
+Analyzing Netflix stock data for investment insights using Jupyter Notebook and Python libraries. Includes time series analysis, statistical tests, moving averages, daily returns, autocorrelation, and ARIMA forecasting.
 
 ---
 
