@@ -32,7 +32,7 @@ Here I focuses on reducing hotel booking cancellations by analyzing guest bookin
 <a href="https://www.linkedin.com/pulse/python-practice-project-ecommerce-insights-from-flipkarts-mishra%3FtrackingId=gbvYDHDUSFlhcIbbqdan5g%253D%253D/?trackingId=gbvYDHDUSFlhcIbbqdan5g%3D%3D">
     <img src="images/Flipkart Ecommerce Insight.png" alt="Project Cover Image"/>
 </a>
-Project Description here
+Explored 19k+ purchases to uncover sales drivers and online shopper behavior. Analyzed categories, brands, pricing, discounts, ratings, and sentiment. Leveraged Python libs Pandas, NumPy, Matplotlib, Seaborn, NLTK for data cleaning, analysis, and visualization.
 
 ---
 
