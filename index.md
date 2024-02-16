@@ -56,7 +56,7 @@ Leveraging Python's Pandas and Plotly Express libraries, I analyzed data from th
 <a href="https://www.linkedin.com/pulse/python-practice-project-iphone-sales-data-analysis-unlocking-mishra%3FtrackingId=o%252FIwq0G62FPOubMU2958Og%253D%253D/?trackingId=o%2FIwq0G62FPOubMU2958Og%3D%3D">
     <img src="images/iPhone Sales Project Cover.png" alt="Project Cover Image"/>
 </a>
-Project Description here
+Analyzing iPhone sales data using Python and Jupyter Notebook. Includes data cleaning, calculates key statistics, identifies top-rated iPhones, visualizes data, conducts correlation analysis, and derives insights for pricing and marketing strategies.
 
 ---
 
