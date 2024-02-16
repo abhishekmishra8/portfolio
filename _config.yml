@@ -1,10 +1,10 @@
-title: Abhishek Mishra # your name (or website title) here
-logo: "images/Profile Pic.jpeg" #"/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-Data Analyst with a love of problem-solving and empowering others. My technical expertise in SQL, Excel, Microsoft Power BI and Python enables me to bridge the gap between complex data and clear, actionable insights. But beyond the technical skills, I believe in the human element of data analysis. My strong communication skills allow me to collaborate effectively and translate insights into meaningful, actionable stories that guide positive business decisions.
-  View My Profile On:
-  <a href="https://www.linkedin.com/in/abhishekmishra3/">LinkedIn</a> | 
-  <a href="https://github.com/abhishekmishra8/">Github</a> 
+title: Abhishek Mishra
+logo: "images/Profile Pic.jpeg"
+description: >
+  Data Analyst with a love of problem-solving and empowering others. My technical expertise in SQL, Excel, Microsoft Power BI, and Python enables me to bridge the gap between complex data and clear, actionable insights. But beyond the technical skills, I believe in the human element of data analysis. My strong communication skills allow me to collaborate effectively and translate insights into meaningful, actionable stories that guide positive business decisions.
   
+  View My Profile On:
+  [LinkedIn](https://www.linkedin.com/in/abhishekmishra3/) | [Github](https://github.com/abhishekmishra8/)
+
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0
