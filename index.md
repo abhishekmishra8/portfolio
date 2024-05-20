@@ -55,20 +55,20 @@ This project analyzes Twitter activity using a dataset of 100,000 tweets. It unc
 Leveraging Python's Pandas and Plotly Express libraries, I analyzed data from the IPL cricket, uncovering insights into team performance, player statistics, match outcomes, toss analysis, and venue-specific trends.
 
 ---
-### Excel Project
-#### [Unlocking Guest Retention Secrets Through Hotel Booking Cancellation Analysis](https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D)
-<a href="https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D">
-<img src="images/Hotel Booking Cancellation Cover page.png">
-</a>
-Here I focuses on reducing hotel booking cancellations by analyzing guest booking data using Excel. It delves into various factors like guest demographics, room preferences, hotel types, and seasonal trends to uncover hidden patterns and cancellation triggers.
-
----
 ### Python Project
 #### [iPhone Sales Data Analysis](https://www.linkedin.com/pulse/python-practice-project-iphone-sales-data-analysis-unlocking-mishra%3FtrackingId=o%252FIwq0G62FPOubMU2958Og%253D%253D/?trackingId=o%2FIwq0G62FPOubMU2958Og%3D%3D)
 <a href="https://www.linkedin.com/pulse/python-practice-project-iphone-sales-data-analysis-unlocking-mishra%3FtrackingId=o%252FIwq0G62FPOubMU2958Og%253D%253D/?trackingId=o%2FIwq0G62FPOubMU2958Og%3D%3D">
     <img src="images/iPhone Sales Project Cover.png" alt="Project Cover Image"/>
 </a>
 Analyzing iPhone sales data using Python and Jupyter Notebook. Includes data cleaning, calculates key statistics, identifies top-rated iPhones, visualizes data, conducts correlation analysis, and derives insights for pricing and marketing strategies.
+
+---
+### Excel Project
+#### [Unlocking Guest Retention Secrets Through Hotel Booking Cancellation Analysis](https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D)
+<a href="https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D">
+<img src="images/Hotel Booking Cancellation Cover page.png">
+</a>
+Here I focuses on reducing hotel booking cancellations by analyzing guest booking data using Excel. It delves into various factors like guest demographics, room preferences, hotel types, and seasonal trends to uncover hidden patterns and cancellation triggers.
 
 ---
 
