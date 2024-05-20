@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/pulse/mysql-power-bi-project-descriptive-analysis-loan-portfolio-mishra-qc8hf/">
     <img src="images/Loan Analytics Banner.jpg" alt="Project Cover Image"/>
 </a>
-- Leveraged MySQL, Power BI, DAX, & Excel to analyze 40k loans for portfolio optimization. 
-- Utilized advanced SQL techniques: CTEs, window functions, data type conversion (staging table), dynamic SQL, stored procedures, CASE with binning, correlation analysis to explore, clean, and analyze data. 
-- Created interactive Power BI visuals & reports (DAX, charts, slicers) for insights. Published reports to Power BI service for collaboration. Set up personal gateway for secure connection & shared reports via embed links & workspace apps.
+Analyzed 40k loans with MySQL, Power BI, DAX, and Excel. Applied advanced SQL (CTEs, window functions, dynamic SQL, stored procedures, correlation analysis) for data exploration and cleaning. Developed interactive reports, published to Power BI service. Set up gateway & shared reports via embed links & workspace apps.
 
 ---
 
