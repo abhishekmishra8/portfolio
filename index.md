@@ -18,7 +18,7 @@ Analyzed 40k loans with MySQL, Power BI, DAX, and Excel. Applied advanced SQL (C
 <a href="https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D">
     <img src="images/Tesla Coverpage.png" alt="Project Cover Image"/>
 </a>
-I analyzed Tesla's financial performance from 2009 to 2023 using Excel, aiming to understand growth, profitability, and investment potential. Key skills developed include financial statement analysis, DCF analysis, ratio analysis, trend analysis, data integration, critical thinking, and project management.
+I analyzed Tesla's financial performance from 2009 to 2023 using Excel, aiming to understand growth, profitability, and investment potential. Key skills developed include predicting cashflows, financial statement analysis, DCF analysis, ratio analysis, trend analysis, data integration, critical thinking, and project management.
 
 ---
 
@@ -28,7 +28,7 @@ I analyzed Tesla's financial performance from 2009 to 2023 using Excel, aiming t
 <a href="https://www.linkedin.com/pulse/python-practice-project-ecommerce-insights-from-flipkarts-mishra%3FtrackingId=gbvYDHDUSFlhcIbbqdan5g%253D%253D/?trackingId=gbvYDHDUSFlhcIbbqdan5g%3D%3D">
     <img src="images/Flipkart Ecommerce Insight.png" alt="Project Cover Image"/>
 </a>
-Explored 19k+ purchases to uncover sales drivers and online shopper behavior. Analyzed categories, brands, pricing, discounts, ratings, and sentiment. Leveraged Python libs Pandas, NumPy, Matplotlib, Seaborn, NLTK for data cleaning, analysis, and visualization.
+Explored 19k+ purchases to uncover sales drivers and online shopper behavior. Implemented NLP and TextBlob for sentiment analysis and wordcloud generation on product descriptions. Leveraged Python libs Pandas, NumPy, Matplotlib, Seaborn, NLTK for data cleaning, analysis, and visualization.
 
 ---
 ### Python Project
