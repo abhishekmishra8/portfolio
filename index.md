@@ -2,6 +2,16 @@
 
 ---
 
+### MySQL & Power BI Project
+
+#### [Loan Analytics: Profit & Risk Insights](https://www.linkedin.com/pulse/mysql-power-bi-project-descriptive-analysis-loan-portfolio-mishra-qc8hf/)
+<a href="https://www.linkedin.com/pulse/mysql-power-bi-project-descriptive-analysis-loan-portfolio-mishra-qc8hf/">
+    <img src="image/Loan Analytics Banner.jpg" alt="Project Cover Image"/>
+</a>
+Leveraged MySQL, Power BI, DAX, & Excel to analyze 40k loans for portfolio optimization. Utilized advanced SQL techniques: CTEs, window functions, data type conversion (staging table), dynamic SQL, stored procedures, CASE with binning, correlation analysis to explore, clean, and analyze data. Created interactive Power BI visuals & reports (DAX, charts, slicers) for insights. Published reports to Power BI service for collaboration. Set up personal gateway for secure connection & shared reports via embed links & workspace apps.
+
+---
+
 ### Excel Projects
 
 #### [Decoding Tesla's Decade: An In-Depth Financial Analysis (2009-2023)](https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D)
