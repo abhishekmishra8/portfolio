@@ -75,12 +75,12 @@ Analyzing iPhone sales data using Python and Jupyter Notebook. Includes data cle
 ### Projects Listed
 
 - [Loan Portfolio Optimization: A MySQL & Power BI Project](https://www.linkedin.com/pulse/mysql-power-bi-project-descriptive-analysis-loan-portfolio-mishra-qc8hf/)
-- [Financial analysis: Tesla's Financials with Excel](https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D)
-- [Social media analytics: Twitter activity analysis using Excel](https://www.linkedin.com/pulse/from-tweets-trends-in-depth-excel-analysis-twitter-activity-mishra-p8oef%3FtrackingId=TSVnOn1mB9imXWg7eGGO2Q%253D%253D/?trackingId=TSVnOn1mB9imXWg7eGGO2Q%3D%3D)
-- [Hospitality analytics: Exploring Hotel Cancellations through Excel](https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D)
 - [E-commerce analytics:  Flipkart Sales Insight with Python](https://www.linkedin.com/pulse/python-practice-project-ecommerce-insights-from-flipkarts-mishra%3FtrackingId=gbvYDHDUSFlhcIbbqdan5g%253D%253D/?trackingId=gbvYDHDUSFlhcIbbqdan5g%3D%3D)
 - [Stock Prediction: Analyzing Netflix Stock Data with Python](https://www.linkedin.com/pulse/python-practice-project-netflix-stock-data-analysis-investing-mishra%3FtrackingId=F3a3AL8GvtKprE7cKgccKA%253D%253D/?trackingId=F3a3AL8GvtKprE7cKgccKA%3D%3D)
 - [Sports analytics: Cricket Data Exploration using Python](https://www.linkedin.com/pulse/python-practice-project-ipl-2022-cricket-sports-data-analysis-mishra%3FtrackingId=csM%252B3ZQqsFhCLWeQklqRJw%253D%253D/?trackingId=csM%2B3ZQqsFhCLWeQklqRJw%3D%3D)
 - [Apple's Success Story: iPhone Sales Data Analysis Using Python](https://www.linkedin.com/pulse/python-practice-project-iphone-sales-data-analysis-unlocking-mishra%3FtrackingId=o%252FIwq0G62FPOubMU2958Og%253D%253D/?trackingId=o%2FIwq0G62FPOubMU2958Og%3D%3D)
+- [Financial analysis: Tesla's Financials with Excel](https://www.linkedin.com/pulse/excel-project-decoding-teslas-decade-in-depth-financial-mishra-uuxmc%3FtrackingId=aaSsfFWmaUKpfwa20rLCQA%253D%253D/?trackingId=aaSsfFWmaUKpfwa20rLCQA%3D%3D)
+- [Social media analytics: Twitter activity analysis using Excel](https://www.linkedin.com/pulse/from-tweets-trends-in-depth-excel-analysis-twitter-activity-mishra-p8oef%3FtrackingId=TSVnOn1mB9imXWg7eGGO2Q%253D%253D/?trackingId=TSVnOn1mB9imXWg7eGGO2Q%3D%3D)
+- [Hospitality analytics: Exploring Hotel Cancellations through Excel](https://www.linkedin.com/pulse/excel-rescue-data-analysis-project-unlocking-guest-retention-mishra-snwof%3FtrackingId=pFFCZVwDON2oHjnkEYgRIw%253D%253D/?trackingId=pFFCZVwDON2oHjnkEYgRIw%3D%3D)
 
 ---
