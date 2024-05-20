@@ -28,7 +28,7 @@ I analyzed Tesla's financial performance from 2009 to 2023 using Excel, aiming t
 <a href="https://www.linkedin.com/pulse/python-practice-project-ecommerce-insights-from-flipkarts-mishra%3FtrackingId=gbvYDHDUSFlhcIbbqdan5g%253D%253D/?trackingId=gbvYDHDUSFlhcIbbqdan5g%3D%3D">
     <img src="images/Flipkart Ecommerce Insight.png" alt="Project Cover Image"/>
 </a>
-Explored 19k+ purchases to uncover sales drivers and online shopper behavior. Implemented NLP and TextBlob for sentiment analysis and wordcloud generation on product descriptions. Leveraged Python libs Pandas, NumPy, Matplotlib, Seaborn, NLTK for data cleaning, analysis, and visualization.
+Explored 19k+ purchases to uncover sales drivers and online shopper behavior. Implemented NLP and TextBlob for sentiment analysis and wordcloud generation on product descriptions. Leveraged Pandas, NumPy, Matplotlib, Seaborn, NLTK for data cleaning, analysis, and visualization.
 
 ---
 ### Python Project
@@ -36,7 +36,7 @@ Explored 19k+ purchases to uncover sales drivers and online shopper behavior. Im
 <a href="https://www.linkedin.com/pulse/python-practice-project-netflix-stock-data-analysis-investing-mishra%3FtrackingId=F3a3AL8GvtKprE7cKgccKA%253D%253D/?trackingId=F3a3AL8GvtKprE7cKgccKA%3D%3D">
     <img src="images/Netflix Project Cover.png" alt="Project Cover Image"/>
 </a>
-Analyzing Netflix stock data for investment insights using Jupyter Notebook and Python libraries. Includes time series analysis, statistical tests, moving averages, daily returns, autocorrelation, and ARIMA forecasting.
+Analyzing Netflix stock data to predict future performance and identify trends & seasonality. Techniques includes time series analysis, statistical tests, moving averages, daily returns, autocorrelation, and ARIMA forecasting.
 
 ---
 ### Excel Project
@@ -44,7 +44,7 @@ Analyzing Netflix stock data for investment insights using Jupyter Notebook and 
 <a href="https://www.linkedin.com/pulse/from-tweets-trends-in-depth-excel-analysis-twitter-activity-mishra-p8oef%3FtrackingId=TSVnOn1mB9imXWg7eGGO2Q%253D%253D/?trackingId=TSVnOn1mB9imXWg7eGGO2Q%3D%3D">
 <img src="images/Twitter Cover Page.png"/>
 </a>
-This project analyzes Twitter activity using a dataset of 100,000 tweets. It uncovers engagement patterns, Klout score impacts, sentiment trends, temporal fluctuations, geographic influences, gender dynamics, and language variations. Through meticulous data cleaning and insightful analysis, it offers actionable insights for optimizing Twitter presence and content strategy.
+This project analyzes Twitter activity using a dataset of 100k tweets. Applied descriptive statistics, correlations, Xlookup, pivot tables, conditional formatting. Through meticulous data cleaning and insightful analysis, it offers actionable insights for optimizing Twitter presence and content strategy.
 
 ---
 ### Python Project
